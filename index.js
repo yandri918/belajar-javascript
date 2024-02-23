@@ -18,3 +18,4 @@ switch(balonku) {
         console.log("bukan balon saya");
 
 }
+let peserta = [ "gundul pacul","my love" ]
